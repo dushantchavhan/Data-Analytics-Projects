@@ -1,7 +1,7 @@
 # 📊 Data Analytics Projects
 
 This repository contains three end-to-end data analysis projects using Python. These projects focus on data cleaning, exploratory data analysis (EDA), visualization, and deriving meaningful business insights. 
-
+ 
 ---
 
 ## 🏥 1. Healthcare Data Analysis
